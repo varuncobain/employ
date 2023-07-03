@@ -9,7 +9,7 @@ Steps to run this project:
 
 
 
-To Login:
+To Login to this:
 
 Admin, Username:admin ; Password:admin1 ;
 HR, Username:hr ; Password:hr1 ;
